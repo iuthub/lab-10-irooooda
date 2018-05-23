@@ -5,6 +5,6 @@ In this lab, you have to finish at least 4 JavaScript exercises given in corresp
 
 ## Student Details
 
-- Student ID: *your ID*
-- Student Name: *your name*
-- Section Number: *your section numer*
+- Student ID: *U1610080*
+- Student Name: *Iroda Ulmasboeva*
+- Section Number: *001*
